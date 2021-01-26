@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data scientist/analyst in San Francisco and I love learning and working with data. :bowtie:
+I love learning and working with data :bowtie:. I live in San Francisco and have held several data related roles in my professional experience.
 
 In the winter of 2020, I joined a data science bootcamp at [Metis](https://www.thisismetis.com/data-science-bootcamps) where I completed several machine learning projects in python – check them out below. I've also written a couple of blog posts on [Medium](https://medium.com/@corraljrmiguel).  
 
