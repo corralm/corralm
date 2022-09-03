@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-I love learning and working with data :bowtie:. I live in San Francisco and have held several data related roles in my professional experience.
+I'm a Python enthusiast and I love working with data and building web scrapers.  
 
-In the winter of 2020, I joined a data science bootcamp at [Metis](https://www.thisismetis.com/data-science-bootcamps) where I completed several machine learning projects in python – check them out below. I've also written a couple of blog posts on [Medium](https://medium.com/@corraljrmiguel).  
+A few things I've done:
+- 💻 Worked at Apple and Google from 2012-2022
+- 🔭 Completed an in-person data science bootcamp with [Metis](https://www.thisismetis.com/data-science-bootcamps) in 2020
+- 🤖 Built web scrapers for TED, Brilliant Earth, ESPN & Yahoo sports, and more
+- 📝 Authored posts about SQL and JupyterLab on [Medium](https://medium.com/@corraljrmiguel)
+- 🎨 Created an extension for Visual Studio Code – [JupyterLab Light Theme](https://marketplace.visualstudio.com/items?itemName=MiguelCorralJr.jupyterlab-light-theme)
 
-More recently, I've built some Python web scrapers for fun.
 
-If you want to get in touch, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/miguelcorraljr/) or reach out at <corraljrmiguel@gmail.com>.
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguelcorraljr/) | <corraljrmiguel@gmail.com>
 
 <!--
 
