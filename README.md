@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Python enthusiast and I love working with data and building web scrapers & machine learning models.  
+I'm a data analyst and Python enthusiast and I love working with data and building web scrapers & machine learning models. 
 
 A few things I've done:
 - 💻 Worked at Apple and Google from 2012-2022.
