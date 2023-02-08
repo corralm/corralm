@@ -11,4 +11,4 @@ A few things I've done:
 - 📝 Authored posts about SQL and JupyterLab on [Medium](https://medium.com/@corraljrmiguel).
 
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguelcorraljr/) | <corraljrmiguel@gmail.com>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguelcorraljr/) | <corraljrmiguel@icloud.com>
